@@ -1,0 +1,1 @@
+# Undergraduate-Research: This is an application of the SEIRD (Susceptible-Exposed-Infected-Recovered-Deceased) epidemic model and an optimal control approach to study the effect of quarantine and isolation on the spread of COVID-19. 
